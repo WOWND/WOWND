@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOWND&layout=compact&theme=dark" />
   <a href="https://solved.ac/gabriel0910/">
-    <img height="150px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gabriel0910" />
+    <img height="120px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gabriel0910" />
   </a>
 </div>
