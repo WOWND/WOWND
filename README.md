@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 ![WOWND's GitHub stats](https://github-readme-stats.vercel.app/api?username=WOWND&show_icons=true&theme=merko)
 -->
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WOWND&layout=compact&theme=dark)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gabriel0910)](https://solved.ac/gabriel0910/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOWND&layout=compact&theme=dark" />
+  <a href="https://solved.ac/gabriel0910/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gabriel0910" />
+  </a>
+</div>
