@@ -1,6 +1,10 @@
-## Hi there 👋
+
 
 <!--
+
+## Hi there 👋
+
+
 **WOWND/WOWND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![WOWND's GitHub stats](https://github-readme-stats.vercel.app/api?username=WOWND&show_icons=true&theme=merko)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gabriel0910)](https://solved.ac/gabriel0910/)
