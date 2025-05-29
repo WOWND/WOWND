@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![WOWND's GitHub stats](https://github-readme-stats.vercel.app/api?username=WOWND&show_icons=true&theme=merko)
 -->
 <p align="center">
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOWND&layout=compact&theme=dark" />
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOWND&layout=compact&theme=dark&v=2" />
   &nbsp;&nbsp;&nbsp;
   <a href="https://solved.ac/gabriel0910/">
     <img height="120px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gabriel0910" />
